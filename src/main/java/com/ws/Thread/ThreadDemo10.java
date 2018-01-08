@@ -5,7 +5,7 @@ import java.util.concurrent.CountDownLatch;
 /**
  * countDownLatch:让一些线程阻塞,直到一些线程完成后才被唤醒
  * @author WS
- *
+ *哎哎哎
  */
 public class ThreadDemo10 {
 
